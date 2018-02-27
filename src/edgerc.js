@@ -12,8 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-var fs = require('fs');
-
 function getSection(lines, sectionName) {
   var match = /^\s*\[(.*)\]/
   ,   section;
@@ -131,10 +129,12 @@ module.exports = function(path, conf) {
 
     throw new Error('No edgerc path');
   }
+  /*
   var edgerc = fs.readFileSync(path).toString().split('\n'),
     confSection,
     confData = getSection(edgerc, confSection);
-
+  */
+  var confData;
   if (!confData) {
     throw new Error('An error occurred parsing the .edgerc file. You probably specified an invalid section name.');
   }
