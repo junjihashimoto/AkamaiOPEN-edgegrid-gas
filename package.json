@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akamai-open/AkamaiOPEN-edgegrid-gas.git"
+    "url": "https://github.com/junjihashimoto/AkamaiOPEN-edgegrid-gas.git"
   },
   "keywords": [
     "akamai",
@@ -17,12 +17,12 @@
     "api",
     "edgegrid"
   ],
-  "author": "Jonathan Bennett",
+  "author": "Junji Hashimoto",
   "contributors": [
     "Darius Kazemi",
     "Mike Ball",
     "Kyle Tyacke",
-    "Junji Hashimoto"
+    "Jonathan Bennett"
   ],
   "license": "Apache-2.0",
   "dependencies": {

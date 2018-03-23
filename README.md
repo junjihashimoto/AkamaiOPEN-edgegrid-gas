@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/akamai-open/AkamaiOPEN-edgegrid-gas.svg?branch=master)](https://travis-ci.org/akamai-open/AkamaiOPEN-edgegrid-gas)
 
-This library implements an Authentication handler for the [Akamai OPEN](hhttps://developer.akamai.com/introduction/) EdgeGrid Authentication scheme in Node.js For more infomation visit the [Akamai {OPEN} Developer Portal](https://developer.akamai.com/).
+
+This library is the fork of akamai's [edgegrid](https://github.com/akamai/AkamaiOPEN-edgegrid-node).
+This library implements an Authentication handler for the [Akamai OPEN](hhttps://developer.akamai.com/introduction/) EdgeGrid Authentication scheme in Google Apps Script For more infomation visit the [Akamai {OPEN} Developer Portal](https://developer.akamai.com/).
 
 ## Installation
 
