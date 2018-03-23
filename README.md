@@ -27,7 +27,7 @@ You should authenticate manually by hard-coding your credential values and passi
 __NOTE__: Requests to the API are signed with a timestamp and therefore should be executed immediately.
 
 ```javascript
-var EdgeGrid = require('edgegrid');
+var EdgeGrid = require('edgegrid-gas');
 
 var data = 'bodyData';
 
