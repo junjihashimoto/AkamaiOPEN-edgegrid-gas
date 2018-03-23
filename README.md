@@ -1,6 +1,6 @@
 # EdgeGrid for Google Apps Script
 
-[![Build Status](https://travis-ci.org/akamai-open/AkamaiOPEN-edgegrid-gas.svg?branch=master)](https://travis-ci.org/akamai-open/AkamaiOPEN-edgegrid-gas)
+[![Build Status](https://travis-ci.org/junjihashimoto/AkamaiOPEN-edgegrid-gas.svg?branch=master)](https://travis-ci.org/junjihashimoto/AkamaiOPEN-edgegrid-gas)
 
 
 This library is the fork of akamai's [edgegrid](https://github.com/akamai/AkamaiOPEN-edgegrid-node).
